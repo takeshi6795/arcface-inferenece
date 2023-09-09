@@ -5,7 +5,7 @@ This is a minimalistic inference-focused repack of [link](https://github.com/dee
 # Supported features
 
 - Extract face embedding for a single-face image. 
-- Pretrained model with ResNet100 on MS1M [line](https://drive.google.com/file/d/1SIS-x1w0fP9ReZISR87GjjxuEWUiYyXh/view?usp=share_link) 
+- Pretrained model with ResNet100 on MS1M [link](https://drive.google.com/file/d/1SIS-x1w0fP9ReZISR87GjjxuEWUiYyXh/view?usp=share_link) 
 
 # Fixes and improvements over orignal version
 
